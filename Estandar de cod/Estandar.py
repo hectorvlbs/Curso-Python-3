@@ -2,7 +2,7 @@
 
 #{************************************}
 #    Programa:
-#    Autor:
+#    Autor:         Villalobos Valenzuela Jesús Héctor
 #    Fecha:
 #    Versión:
 #    Descripción:
