@@ -1,0 +1,1 @@
+#{************************************}#    Programa:      Módulos y paquetes - Datetime#    Autor:         Villalobos Valenzuela Jesús Héctor#    Fecha:         11 de abril del 2020#{************************************}import datetimeif __name__ == '__main__':    dt = datetime.datetime.now()    print(dt.tzinfo)    print(3**2**2)

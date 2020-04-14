@@ -1,0 +1,1 @@
+#{************************************}#    Programa:      Módulos y paquetes - Módulos#    Autor:         Villalobos Valenzuela Jesús Héctor#    Fecha:         9 de abril del 2020#    Descripción:   Crear nuestros porpios módulos#{************************************}from Saludos import *if __name__ == '__main__':    Saludar()    Saludo()
