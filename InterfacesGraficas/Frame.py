@@ -1,0 +1,1 @@
+from tkinter import *def Root_Frame():    root = Tk()    root.title("Frame")    root.resizable(0,0)    frame = Frame(root, width=480, height=400)    frame.pack()    frame.config(cursor="pirate")    frame.config(bg="blue")    return rootdef MainTkinter():    root = Root_Frame()    root.mainloop()if __name__ == '__main__':    MainTkinter()
